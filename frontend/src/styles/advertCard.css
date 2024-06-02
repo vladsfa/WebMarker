@@ -1,0 +1,25 @@
+
+.header{
+    display: flex;
+}
+
+.footer{
+    margin-top: 10px;
+    display: flex;
+}
+
+.group{
+    width: 50px;
+}
+
+.id_cont, .diff_cont, .group_cont{
+    margin-right: 10px;
+}
+
+.choose_build_cont, .set_group_cont{
+    margin-right: 10px;
+}
+
+.choose_build, .set_group, .on_top, .from_top{
+    padding: 5px;
+}

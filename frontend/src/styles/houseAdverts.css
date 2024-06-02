@@ -1,0 +1,35 @@
+
+.utils_con{
+    display: flex;
+}
+
+.houses{
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.reload,
+.next{
+    border: none;
+    background: none;
+    padding: 0;
+    font: inherit
+}
+
+.util{
+    font-size: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.util:hover{
+    background-color:gainsboro;
+}
+
+.ad{
+    margin: 30px 0px;
+}
